@@ -3,7 +3,7 @@
 // WIKIMEDIA COMMONS API
 // ==========================================
 
-const API_URL = "https://login-system-xl4w.onrender.com/";
+const API_URL = "https://image-search-engine-5gqe.onrender.com/api/artworks";
 
 // DOM ELEMENTS
 const searchForm = document.getElementById("searchForm");
